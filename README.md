@@ -1,12 +1,7 @@
 # novatus_mask_detection
 
-![교육 로고]([https://path/to/your/logo.png](https://yt3.googleusercontent.com/kP8lV5niVoz81qMuj56u7MfbM7d1IS3UNW-4_j3jcPCle-k4d3vydSHeuRUIiAhXPKCMEFl-xG4=s176-c-k-c0x00ffffff-no-rj))
-
-## 내용
-
-- [프로젝트 소개](#프로젝트 )
-- [Google Drive](#google-colab에서-실행하기)
-- [연락처](#연락처)
+## Drive
+- [Google Drive](#[google-colab에서-실행하기](https://drive.google.com/drive/folders/1oKypFm5kDiDRE1SqNcBAQ8Pg-yDHdlnA))
 
 ## 연락처
 
