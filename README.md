@@ -9,6 +9,9 @@
 프로젝트 자료는 Google Drive에 저장되어 있습니다. 아래 링크를 통해 자료를 확인할 수 있습니다:
 - [Google Drive 링크](https://drive.google.com/drive/folders/1oKypFm5kDiDRE1SqNcBAQ8Pg-yDHdlnA)
 
+- [교육자료]
+(https://docs.google.com/presentation/d/1i0K51GowFw-vRtJYPUcGBecpdtheBJW4DLgFx8JNiyc/edit?usp=sharing)
+
 ## Colab
 
 Google Colab에서 학습 자료와 코드를 실행하려면 아래 링크를 클릭하세요:
